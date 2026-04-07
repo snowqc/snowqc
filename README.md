@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Brian
 
-<!--
-**snowqc/snowqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a software engineering student at McGill University
 
-Here are some ideas to get you started:
+### Skills
+- Programming Languages: Java, Python, C , JavaScript
+- Backend Development: Spring Framework, REST API
+- Frontend Web Development: Vue.js, Flask
+- Database Technologies: SQL, PostgreSQL, Oracle
+- CI/CD: Jenkins, Gitlab Pipelines
+- Knowledge of Containerization: Docker, Kubernetes, Helm
+- Version Control System: Git, GitHub, Gitlab, Gerrit 
+- Agentic AI: Kiro, Amazon Q, Claude
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects (Some are Available)
+
+- Multi-Agent AI System for development workflows (in Ericsson)
+- Board Game Sharing System
+- Cool Supplies 
